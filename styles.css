@@ -95,6 +95,8 @@ margin-bottom: 10px;
 }
 .contact-me{
   margin-bottom: 50px;
+  width: 60%;
+  margin: auto;
 }
 .footer-link{
   color: #6F38C5;
